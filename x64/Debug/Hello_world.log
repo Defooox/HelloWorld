@@ -1,0 +1,2 @@
+﻿  Hello_world.cpp
+C:\Users\foka5\OneDrive\Рабочий стол\Hello_world\Hello_world\Hello_world.cpp(17,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
